@@ -39,8 +39,13 @@
     color: #fff;
 }
 
+.bg-dark,
 .btn-dark {
     background-color: var(--dark-color);
+    color: #fff;
+}
+
+.bg-dark a {
     color: #fff;
 }
 
