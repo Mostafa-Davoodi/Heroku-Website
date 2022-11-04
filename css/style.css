@@ -4,6 +4,7 @@
     --primary-color: #047aed;
     --secondary-color: #1c3fa8;
     --dark-color: #002240;
+    --light-color: #f4f4f4;
 }
 
 * {
@@ -185,4 +186,16 @@ img {
 
 .footer .social a {
     margin: 0 10px;
+}
+
+/* Features */
+
+.features-head img {
+    width: 200px;
+    justify-self: flex-end;
+}
+
+.features-sub-head img {
+    width: 300px;
+    justify-self: flex-end;
 }

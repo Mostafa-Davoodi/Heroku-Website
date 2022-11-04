@@ -39,6 +39,11 @@
     color: #fff;
 }
 
+.bg-light {
+    background-color: var(--light-color);
+    color: #333;
+}
+
 .bg-dark,
 .btn-dark {
     background-color: var(--dark-color);
